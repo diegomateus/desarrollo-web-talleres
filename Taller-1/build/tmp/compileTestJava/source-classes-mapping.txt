@@ -1,0 +1,8 @@
+com/webDevelopment/solid/BookDetailTest.java
+ com.webDevelopment.solid.BookDetailTest
+com/webDevelopment/solid/ListBooksByAuthorTest.java
+ com.webDevelopment.solid.ListBooksByAuthorTest
+com/webDevelopment/solid/CreateBookTest.java
+ com.webDevelopment.solid.CreateBookTest
+com/webDevelopment/solid/SolidApplicationTests.java
+ com.webDevelopment.solid.SolidApplicationTests

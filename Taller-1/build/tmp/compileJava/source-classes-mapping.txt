@@ -1,0 +1,20 @@
+com/webDevelopment/solid/models/Book.java
+ com.webDevelopment.solid.models.Book
+com/webDevelopment/solid/services/BookServiceLocal.java
+ com.webDevelopment.solid.services.BookServiceLocal
+com/webDevelopment/solid/SolidApplication.java
+ com.webDevelopment.solid.SolidApplication
+com/webDevelopment/solid/useCase/AuthorBooksFinder.java
+ com.webDevelopment.solid.useCase.AuthorBooksFinder
+com/webDevelopment/solid/useCase/BookDetailer.java
+ com.webDevelopment.solid.useCase.BookDetailer
+com/webDevelopment/solid/services/BookService.java
+ com.webDevelopment.solid.services.BookService
+com/webDevelopment/solid/useCase/BookCreator.java
+ com.webDevelopment.solid.useCase.BookCreator
+com/webDevelopment/solid/controllers/DetailBookController.java
+ com.webDevelopment.solid.controllers.DetailBookController
+com/webDevelopment/solid/controllers/ListBooksByAuthorController.java
+ com.webDevelopment.solid.controllers.ListBooksByAuthorController
+com/webDevelopment/solid/controllers/CreateNewBookController.java
+ com.webDevelopment.solid.controllers.CreateNewBookController
