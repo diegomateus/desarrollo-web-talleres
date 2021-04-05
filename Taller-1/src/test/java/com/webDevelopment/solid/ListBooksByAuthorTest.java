@@ -9,7 +9,7 @@ public class ListBooksByAuthorTest {
     private AuthorBooksFinder authorBooksFinder;
 
     @Test
-    public void createBookTest(){
+    public void listBookByAuthorTest(){
 
         //assertEquals(expected, authorBooksFinder.execute());
 

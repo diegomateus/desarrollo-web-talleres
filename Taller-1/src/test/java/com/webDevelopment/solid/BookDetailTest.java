@@ -12,7 +12,7 @@ public class BookDetailTest {
     private BookDetailer bookDetailer;
 
     @Test
-    public void createBookTest() throws Exception {
+    public void bookDetailTest() throws Exception {
 
         this.bookDetailer = new BookDetailer(new BookServiceLocal());
         String expected = "title: " + "1984" + ", author: " + "Gorge Orwell" + ", published year: " + "1949" + ", price: " + "19000" + ", pages: " + "326" + ", description: " + "Es la distopia de la epoca" +".";
